@@ -9,7 +9,7 @@
 </head>
 
 <body>
-
+<!-- include contact form -->
 <?php include('contactForm/contactForm.php') ?>
 
 </body>
